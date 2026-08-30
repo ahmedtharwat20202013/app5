@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Lightning Bolt Center Icon -->
+    <group
+        android:pivotX="12"
+        android:pivotY="12"
+        android:scaleX="0.65"
+        android:scaleY="0.65">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M11.5,2 L4,13.5 H10.5 V22 L18,10.5 H11.5 Z" />
+    </group>
+</vector>
